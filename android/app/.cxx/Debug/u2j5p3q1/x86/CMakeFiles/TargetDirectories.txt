@@ -1,0 +1,2 @@
+C:/flutterapps/allergify/android/app/.cxx/Debug/u2j5p3q1/x86/CMakeFiles/edit_cache.dir
+C:/flutterapps/allergify/android/app/.cxx/Debug/u2j5p3q1/x86/CMakeFiles/rebuild_cache.dir
